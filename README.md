@@ -1,9 +1,3 @@
----
-date created: 2023-08-29 12:42
-tags:
-  - '#obsidian'
----
-
 # Second Brain
 
 I decided to publish my second brain using #obsidian

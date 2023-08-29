@@ -1,16 +1,8 @@
----
-date created: 2023-08-29 12:42
-date updated: 2023-08-29 12:42
-tags:
-  - '#hooks'
-  - '#react'
-  - '#state_management'
-  - '#useState'
----
+#hooks #react #state-management #useState
 
-#hooks #react #state_management #useState
+#useState useState is a React Hook that lets you add a [state variable](https://react.dev/learn/state-a-components-memory) to your component.
 
-#useState is a React Hook that lets you add a [state variable](https://react.dev/learn/state-a-components-memory) to your component.
+The **best approach** is to pass previous state ` setCounter((prev) => prev + 1)`
 
 ### Snippet:
 
@@ -18,8 +10,7 @@ tags:
 const [state, setState] = useState(initialState);
 ```
 
-### Ex:
-
+### E.g.
 ```tsx
 "use client";
 
