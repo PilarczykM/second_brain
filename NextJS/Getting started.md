@@ -8,3 +8,5 @@ By default components are #server-components
 
 [NextJS](https://nextjs.org/docs)
 [Motion - animation lib](https://www.framer.com/motion/)
+[React hooks form](https://react-hook-form.com)
+[Tiny PNG - image optimizer](https://tinypng.com)
